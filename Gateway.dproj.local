@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2014/08/05 15:55:17.000.266,D:\fontes\Ferrari\Gateway Acp245 -ICS - xe2 verrrr\thread_gravacao_Suntech.pas=D:\fontes\Ferrari\Gateway Acp245 -ICS - xe2 verrrr\thread_gravacao_ET06.pas</Transaction>
+    <Transaction>2014/08/05 15:57:03.000.444,D:\fontes\Ferrari\Funcoes\FunSunTech.pas=D:\fontes\Ferrari\Funcoes\FunET06.pas</Transaction>
+    <Transaction>2014/08/06 09:29:42.000.795,D:\fontes\Ferrari\Gateway Acp245 -ICS - xe2 verrrr\thread_MsgSuntech.pas=D:\fontes\Ferrari\Gateway Acp245 -ICS - xe2 verrrr\thread_MsgET06.pas</Transaction>
+    <Transaction>2017/05/24 09:55:27.000.492,D:\fontes\Ferrari\Gateway QUICKLINK\thread_gravacao_QUICKLINK.pas=D:\fontes\Ferrari\Gateway QUICKLINK\thread_gravacao_ET06.pas</Transaction>
+    <Transaction>2017/05/24 09:56:10.000.852,D:\fontes\Ferrari\Funcoes\FunQUICKLINK.pas=D:\fontes\Ferrari\Funcoes\FunET06.pas</Transaction>
+    <Transaction>2017/05/24 10:01:39.000.819,=D:\fontes\Ferrari\Funcoes\FunET06.pas</Transaction>
+    <Transaction>2017/05/24 11:42:42.000.487,D:\fontes\Ferrari\Funcoes\FunQUICKLINK.pas=D:\fontes\Ferrari\Funcoes\FunQUECLINK.pas</Transaction>
+    <Transaction>2017/05/24 11:43:16.000.683,D:\fontes\Ferrari\Gateway QUICKLINK\thread_gravacao_QUICKLINK.pas=D:\fontes\Ferrari\Gateway QUICKLINK\thread_gravacao_QUECLINK.pas</Transaction>
+  </Transactions>
+</BorlandProject>

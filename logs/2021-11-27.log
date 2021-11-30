@@ -1,0 +1,34 @@
+[2021-11-27 02:02:28]
+Vai Fechar o TCP/UDP Socket (Automático)
+[2021-11-27 02:02:29]
+Serviços UDP/TCP Encerrados:
+[2021-11-27 02:02:29]
+TCP/UDP Socket Fechado (Automático) 
+[2021-11-27 02:02:30]
+Vai Abrir o TCP/UDP Socket (Automático)
+[2021-11-27 02:02:30]
+Tcp Server Inicializado:  
+[2021-11-27 02:02:30]
+TCP/UDP Socket Aberto (Automático)
+[2021-11-27 11:30:02]
+Cliente desconectou: 10.20.3.57:63095 - Duração: 00:00:00 TCP_Client_Id: 1
+[2021-11-27 14:03:28]
+Vai Fechar o TCP/UDP Socket (Automático)
+[2021-11-27 14:03:29]
+Serviços UDP/TCP Encerrados:
+[2021-11-27 14:03:29]
+TCP/UDP Socket Fechado (Automático) 
+[2021-11-27 14:03:30]
+Vai Abrir o TCP/UDP Socket (Automático)
+[2021-11-27 14:03:30]
+Tcp Server Inicializado:  
+[2021-11-27 14:03:30]
+TCP/UDP Socket Aberto (Automático)
+[2021-11-27 20:45:38]
+ID: 865083033518598 - 2B,45,56,54,02,00,FE,1F,BF,00,5E,09,08,03,08,11,56,32,53,03,23,12,3B,08,00,00,00,00,00,11,0B,01,00,00,00,00,01,2B,03,23,FD,38,65,E0,FE,98,02,64,07,E5,0B,1A,0D,0D,25,07,24,00,03,20,77,71,04,00,00,00,00,00,00,00,1F,09,00,00,00,00,00,00,00,00,00,07,E5,0B,1B,17,2D,3A,03,1C,F0,AB,0D,0A,
+[2021-11-27 20:45:39]
+Cliente desconectou: 10.20.3.57:13467 - Duração: 00:00:00 TCP_Client_Id: 1
+[2021-11-27 21:18:14]
+ID: 865083033394552 - 2B,45,56,54,02,00,FE,1F,BF,00,5E,09,08,03,08,11,56,32,53,03,21,5E,37,02,00,00,00,00,00,11,0C,01,00,00,00,00,01,57,03,29,FD,38,65,DA,FE,98,02,7D,07,E5,0B,1A,0D,0D,20,07,24,00,03,20,77,71,04,00,00,00,00,00,00,00,1F,09,00,00,00,00,00,00,00,00,00,07,E5,0B,1C,00,12,23,02,A4,3A,5D,0D,0A,
+[2021-11-27 21:18:15]
+Cliente desconectou: 10.20.3.57:16399 - Duração: 00:00:00 TCP_Client_Id: 2
